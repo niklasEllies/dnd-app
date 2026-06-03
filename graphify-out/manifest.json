@@ -1,0 +1,287 @@
+{
+  "C:\\Users\\Niklas\\projects\\dndApp\\.claude\\settings.local.json": {
+    "mtime": 1780497989.723907,
+    "ast_hash": "2bba9265ac756b7aa7ae69c86b08cadc",
+    "semantic_hash": "2bba9265ac756b7aa7ae69c86b08cadc"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\.claude\\wf-review.js": {
+    "mtime": 1780497974.2801511,
+    "ast_hash": "e18ca2b53ab46e771a3d4629f7f0f1db",
+    "semantic_hash": "e18ca2b53ab46e771a3d4629f7f0f1db"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\.claude\\wf-schema.js": {
+    "mtime": 1780496039.8873737,
+    "ast_hash": "b9f25447fb478101135ee5f87db8b6b1",
+    "semantic_hash": "b9f25447fb478101135ee5f87db8b6b1"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\.mcp.json": {
+    "mtime": 1780494599.61196,
+    "ast_hash": "5b41bb7e698ee04a58bc4e12761f2f13",
+    "semantic_hash": "5b41bb7e698ee04a58bc4e12761f2f13"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\components.json": {
+    "mtime": 1780495600.8627064,
+    "ast_hash": "fc5c9e9a7b93eeb2f7b4e1ce0959e4a6",
+    "semantic_hash": "fc5c9e9a7b93eeb2f7b4e1ce0959e4a6"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\eslint.config.mjs": {
+    "mtime": 1780495391.1019022,
+    "ast_hash": "dfa1f5f6a7037bf39dc510f30b180002",
+    "semantic_hash": "dfa1f5f6a7037bf39dc510f30b180002"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\next.config.ts": {
+    "mtime": 1780495391.1448388,
+    "ast_hash": "9b77af189a21a7a64e4bd7a426f64176",
+    "semantic_hash": "9b77af189a21a7a64e4bd7a426f64176"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\package.json": {
+    "mtime": 1780495667.3912356,
+    "ast_hash": "d69f8eb681984e702c1e1ab38dbed587",
+    "semantic_hash": "d69f8eb681984e702c1e1ab38dbed587"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\postcss.config.mjs": {
+    "mtime": 1780495391.1116023,
+    "ast_hash": "239f3ebf717465dc636818a1a619398d",
+    "semantic_hash": "239f3ebf717465dc636818a1a619398d"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\app\\(app)\\campaigns\\[id]\\page.tsx": {
+    "mtime": 1780498384.1395142,
+    "ast_hash": "cf91d129d4b0efa22b66a68d5d59f17b",
+    "semantic_hash": "cf91d129d4b0efa22b66a68d5d59f17b"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\app\\(app)\\dashboard\\page.tsx": {
+    "mtime": 1780496492.0704198,
+    "ast_hash": "7786f175d2ce3d34f4aff759f3c5fde9",
+    "semantic_hash": "7786f175d2ce3d34f4aff759f3c5fde9"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\app\\(app)\\layout.tsx": {
+    "mtime": 1780498369.948693,
+    "ast_hash": "53731e52bf68bc5eb374285e3d6dd325",
+    "semantic_hash": "53731e52bf68bc5eb374285e3d6dd325"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\app\\auth\\callback\\route.ts": {
+    "mtime": 1780496266.5322719,
+    "ast_hash": "07494d3fb599e0ff17d101ce3d839b44",
+    "semantic_hash": "07494d3fb599e0ff17d101ce3d839b44"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\app\\layout.tsx": {
+    "mtime": 1780496140.6650841,
+    "ast_hash": "86453e9f0b989d64b3077d9e998f12c4",
+    "semantic_hash": "86453e9f0b989d64b3077d9e998f12c4"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\app\\login\\page.tsx": {
+    "mtime": 1780496263.2212224,
+    "ast_hash": "f5103be7240a5d7e1c773c9de22d8de6",
+    "semantic_hash": "f5103be7240a5d7e1c773c9de22d8de6"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\app\\page.tsx": {
+    "mtime": 1780498354.877567,
+    "ast_hash": "62e1d646c744365dded4e7a932ea30a7",
+    "semantic_hash": "62e1d646c744365dded4e7a932ea30a7"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\components\\app-nav.tsx": {
+    "mtime": 1780498343.1356041,
+    "ast_hash": "75e70d4141e4aca4d07a7d53cd21aac1",
+    "semantic_hash": "75e70d4141e4aca4d07a7d53cd21aac1"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\components\\copy-invite.tsx": {
+    "mtime": 1780496511.7146943,
+    "ast_hash": "c7c9368dce19e301ca4e02718920f5c7",
+    "semantic_hash": "c7c9368dce19e301ca4e02718920f5c7"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\components\\join-campaign-dialog.tsx": {
+    "mtime": 1780498368.5830612,
+    "ast_hash": "0ca099234e526bcfc84624dc0053f6fd",
+    "semantic_hash": "0ca099234e526bcfc84624dc0053f6fd"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\components\\new-campaign-dialog.tsx": {
+    "mtime": 1780498367.1735547,
+    "ast_hash": "b28ef8eb8d8205640fd78c568b153c91",
+    "semantic_hash": "b28ef8eb8d8205640fd78c568b153c91"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\components\\ui\\avatar.tsx": {
+    "mtime": 1780495668.7668068,
+    "ast_hash": "8b41492907a73176027427a3f0fd2302",
+    "semantic_hash": "8b41492907a73176027427a3f0fd2302"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\components\\ui\\badge.tsx": {
+    "mtime": 1780495668.8261356,
+    "ast_hash": "e4ec840217040d5630ee6ed7213a1d72",
+    "semantic_hash": "e4ec840217040d5630ee6ed7213a1d72"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\components\\ui\\button.tsx": {
+    "mtime": 1780495610.5205078,
+    "ast_hash": "e04ce5251d6b0dd04020988126c905e9",
+    "semantic_hash": "e04ce5251d6b0dd04020988126c905e9"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\components\\ui\\card.tsx": {
+    "mtime": 1780495668.345291,
+    "ast_hash": "77a10bd948ca424972a28e704a3df604",
+    "semantic_hash": "77a10bd948ca424972a28e704a3df604"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\components\\ui\\dialog.tsx": {
+    "mtime": 1780495669.023324,
+    "ast_hash": "d9618a63d34473ec512321cc12d43692",
+    "semantic_hash": "d9618a63d34473ec512321cc12d43692"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\components\\ui\\dropdown-menu.tsx": {
+    "mtime": 1780495668.7054067,
+    "ast_hash": "e6107cbb2088437e76a858f75b5a0280",
+    "semantic_hash": "e6107cbb2088437e76a858f75b5a0280"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\components\\ui\\input.tsx": {
+    "mtime": 1780495668.4156513,
+    "ast_hash": "0607b02d99a2e92f9509223f36ccc6ec",
+    "semantic_hash": "0607b02d99a2e92f9509223f36ccc6ec"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\components\\ui\\label.tsx": {
+    "mtime": 1780495668.4730525,
+    "ast_hash": "a70440da86bfc6a07f15197cca48cb08",
+    "semantic_hash": "a70440da86bfc6a07f15197cca48cb08"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\components\\ui\\separator.tsx": {
+    "mtime": 1780495668.8880692,
+    "ast_hash": "3de2dca3e47ab29c4b1f632671545628",
+    "semantic_hash": "3de2dca3e47ab29c4b1f632671545628"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\components\\ui\\sonner.tsx": {
+    "mtime": 1780495668.6106799,
+    "ast_hash": "f46214bc2a6a5153a6e04fad523d5587",
+    "semantic_hash": "f46214bc2a6a5153a6e04fad523d5587"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\components\\ui\\textarea.tsx": {
+    "mtime": 1780495668.530848,
+    "ast_hash": "d448d2a90e48542e51b93a1189127bf2",
+    "semantic_hash": "d448d2a90e48542e51b93a1189127bf2"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\lib\\actions\\auth.ts": {
+    "mtime": 1780496427.1482148,
+    "ast_hash": "304c4769d1c94a327ec95af0ed26ab4a",
+    "semantic_hash": "304c4769d1c94a327ec95af0ed26ab4a"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\lib\\actions\\campaigns.ts": {
+    "mtime": 1780498365.7855966,
+    "ast_hash": "dde1cad46c595efa251098b4e3d67bfc",
+    "semantic_hash": "dde1cad46c595efa251098b4e3d67bfc"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\lib\\database.types.ts": {
+    "mtime": 1780497893.8878312,
+    "ast_hash": "da15c772d289758eb742ddde765125dd",
+    "semantic_hash": "da15c772d289758eb742ddde765125dd"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\lib\\initials.ts": {
+    "mtime": 1780498334.2931585,
+    "ast_hash": "5a3acbd24975c01153c6436ebc08bf09",
+    "semantic_hash": "5a3acbd24975c01153c6436ebc08bf09"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\lib\\supabase\\client.ts": {
+    "mtime": 1780496200.4345286,
+    "ast_hash": "d867989017bae5b4ed970df13a332e87",
+    "semantic_hash": "d867989017bae5b4ed970df13a332e87"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\lib\\supabase\\middleware.ts": {
+    "mtime": 1780498363.8920498,
+    "ast_hash": "09871f82f06faa3043083f999a1a7056",
+    "semantic_hash": "09871f82f06faa3043083f999a1a7056"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\lib\\supabase\\server.ts": {
+    "mtime": 1780496204.3335018,
+    "ast_hash": "e4978e8e4f6f3871d2c31e2669630a43",
+    "semantic_hash": "e4978e8e4f6f3871d2c31e2669630a43"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\lib\\utils.ts": {
+    "mtime": 1780495610.588347,
+    "ast_hash": "5a6fd53fdcf2be529e9cc0b718fde352",
+    "semantic_hash": "5a6fd53fdcf2be529e9cc0b718fde352"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\src\\proxy.ts": {
+    "mtime": 1780498091.9974988,
+    "ast_hash": "5d7953c0d4d2d2d9d8646549d680f1dd",
+    "semantic_hash": "5d7953c0d4d2d2d9d8646549d680f1dd"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\supabase\\migrations\\0002_tables.sql": {
+    "mtime": 1780497487.0723588,
+    "ast_hash": "f9fd1736407907382b7a0fb4e6f83370",
+    "semantic_hash": "f9fd1736407907382b7a0fb4e6f83370"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\supabase\\migrations\\0003_security_helpers.sql": {
+    "mtime": 1780497487.072868,
+    "ast_hash": "e5b0ed387356ad01bd156d698e6b107e",
+    "semantic_hash": "e5b0ed387356ad01bd156d698e6b107e"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\supabase\\migrations\\0004_rls_policies.sql": {
+    "mtime": 1780497487.072868,
+    "ast_hash": "d3ce891cdb6824a71a2e2bb5b4b0a713",
+    "semantic_hash": "d3ce891cdb6824a71a2e2bb5b4b0a713"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\supabase\\migrations\\0005_rpcs.sql": {
+    "mtime": 1780497487.073387,
+    "ast_hash": "558730d2431f00dc1ca2f60100ba9ae8",
+    "semantic_hash": "558730d2431f00dc1ca2f60100ba9ae8"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\supabase\\migrations\\0006_storage.sql": {
+    "mtime": 1780497487.073387,
+    "ast_hash": "d84d4b197ff97cc88f4037fab07847ed",
+    "semantic_hash": "d84d4b197ff97cc88f4037fab07847ed"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\supabase\\migrations\\0007_indexes_grants.sql": {
+    "mtime": 1780497487.0739007,
+    "ast_hash": "9ffa1d9566649d8696b9faa11c166624",
+    "semantic_hash": "9ffa1d9566649d8696b9faa11c166624"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\supabase\\migrations\\0008_hardening_asserts.sql": {
+    "mtime": 1780497813.550404,
+    "ast_hash": "3f5e384a7ac0ea555534796fad2d5069",
+    "semantic_hash": "3f5e384a7ac0ea555534796fad2d5069"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\tsconfig.json": {
+    "mtime": 1780495391.3373985,
+    "ast_hash": "ee17fd1c97c735e9f3564e3f5251f125",
+    "semantic_hash": "ee17fd1c97c735e9f3564e3f5251f125"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\AGENTS.md": {
+    "mtime": 1780495391.3394303,
+    "ast_hash": "9e09241799026ac05be315a2f0b50055",
+    "semantic_hash": "9e09241799026ac05be315a2f0b50055"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\CLAUDE.md": {
+    "mtime": 1780498478.980815,
+    "ast_hash": "12a8cc6ad5e7de4017d07340207d03b0",
+    "semantic_hash": "12a8cc6ad5e7de4017d07340207d03b0"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\README.md": {
+    "mtime": 1780496595.3100016,
+    "ast_hash": "852ebbf2d04acb2625ac5407fb68815b",
+    "semantic_hash": "852ebbf2d04acb2625ac5407fb68815b"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\requirements.md": {
+    "mtime": 1780494982.8032053,
+    "ast_hash": "12a1bb5b53f7c9cdca53db59f1d3d578",
+    "semantic_hash": "12a1bb5b53f7c9cdca53db59f1d3d578"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\public\\file.svg": {
+    "mtime": 1780495391.1152394,
+    "ast_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71",
+    "semantic_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\public\\globe.svg": {
+    "mtime": 1780495391.1208415,
+    "ast_hash": "2aaafa6a49b6563925fe440891e32717",
+    "semantic_hash": "2aaafa6a49b6563925fe440891e32717"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\public\\next.svg": {
+    "mtime": 1780495391.1254318,
+    "ast_hash": "8e061864f388b47f33a1c3780831193e",
+    "semantic_hash": "8e061864f388b47f33a1c3780831193e"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\public\\vercel.svg": {
+    "mtime": 1780495391.1295085,
+    "ast_hash": "c0af2f507b369b085b35ef4bbe3bcf1e",
+    "semantic_hash": "c0af2f507b369b085b35ef4bbe3bcf1e"
+  },
+  "C:\\Users\\Niklas\\projects\\dndApp\\public\\window.svg": {
+    "mtime": 1780495391.1331325,
+    "ast_hash": "a2760511c65806022ad20adf74370ff3",
+    "semantic_hash": "a2760511c65806022ad20adf74370ff3"
+  }
+}

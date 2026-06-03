@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__supabase__list_migrations",
+      "mcp__supabase__list_tables",
+      "Bash(npm --version)",
+      "Bash(npx --version)",
+      "Bash(npm config *)",
+      "mcp__supabase__get_publishable_keys",
+      "mcp__supabase__get_project_url",
+      "PowerShell(npx --yes shadcn@latest init -d --base-color neutral)",
+      "PowerShell(npx --yes shadcn@latest init --help)",
+      "PowerShell(npx --yes shadcn@latest init -d)",
+      "PowerShell(npx --yes shadcn@latest add card input label textarea sonner dropdown-menu avatar badge separator dialog -y)",
+      "mcp__supabase__apply_migration",
+      "mcp__supabase__execute_sql",
+      "mcp__supabase__get_advisors",
+      "mcp__supabase__generate_typescript_types",
+      "PowerShell(npm run *)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "supabase"
+  ]
+}
