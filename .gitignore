@@ -43,3 +43,6 @@ next-env.d.ts
 
 # graphify (generated knowledge graph)
 /graphify-out/
+
+.vercel
+.env*
