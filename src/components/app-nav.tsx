@@ -28,9 +28,14 @@ export function AppNav({
   return (
     <header className="border-b">
       <div className="mx-auto flex h-14 w-full max-w-5xl items-center justify-between px-6">
-        <Link href="/dashboard" className="flex items-center gap-2">
-          <span className="size-2.5 rounded-sm bg-primary" aria-hidden />
-          <span className="text-sm font-semibold tracking-tight">
+        <Link href="/dashboard" className="flex items-center gap-2.5">
+          <span
+            className="relative inline-flex size-5 items-center justify-center rounded-full bg-primary/15 ring-1 ring-primary/40"
+            aria-hidden
+          >
+            <span className="size-1.5 rounded-full bg-primary shadow-[0_0_10px_2px_var(--color-primary)]" />
+          </span>
+          <span className="font-display text-sm font-medium tracking-wide">
             Campaign Memory
           </span>
         </Link>
