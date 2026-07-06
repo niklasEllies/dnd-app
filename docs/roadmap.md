@@ -44,9 +44,16 @@ sessions).
 
 These are candidates, not commitments; let the playtest reorder them.
 
+- **Cards as lenses (mini-timeline per card)** — the entity page shows nothing that
+  *happened* to the entity; render its `log_entries` (and quotes) as a per-card timeline.
+  Cheap (one query, RLS filters per viewer) and arguably a v1 gap. See
+  `docs/concept-and-ai-direction.md`.
 - **Recap-posted notification** — email to members when a recap or reveal lands. Directly
   drives the "player logs in between sessions" half of the north star. Probably the highest-
   leverage single feature in this list.
+- **Recap-writing assistant (first AI feature)** — bullet points in → recap draft +
+  suggested moments/cards out. Attacks logging fatigue, the loop's existential risk, and
+  feeds the corpus the Phase 3 chat consumes. Rationale in `docs/concept-and-ai-direction.md`.
 - **Entity images** — `image_url` + storage bucket + RLS already exist; only the upload UI is
   missing. When building it, close the documented residual risk (random filenames or a
   `can_read_entity_image()` check — see `docs/security.md` → Residual risks).
@@ -65,8 +72,14 @@ These are candidates, not commitments; let the playtest reorder them.
 
 ## Phase 3 — v1.5 differentiators (locked behind the north star)
 
+- **"Chat with your campaign" (the headline — Niklas's stated end-goal)** — DM asks the
+  chronicle questions; answers are visibility-aware because retrieval runs through the
+  user's RLS-scoped client ("what does the party *know* about X?"). No RAG needed for v1 —
+  a campaign fits in one context window. Natural paid tier. Full design rationale and
+  data-model prerequisites: `docs/concept-and-ai-direction.md`.
 - **Relationship graph viz** (explicitly deferred in §3) — the "remember when" map of who
-  betrayed whom.
+  betrayed whom. Wants the same entity-mention substrate as chat — one investment, two
+  features.
 - **"Campaign book" export** — the finished chronicle as a printable/PDF document at
   campaign end. Emotional payoff feature and the most natural future paid hook.
 - **Supabase Realtime** — live quote feed during play, if tables actually use it mid-session.
