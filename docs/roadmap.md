@@ -16,11 +16,12 @@ sessions).
 
 ## Phase 0 — Ship it (blocking everything else)
 
-1. Commit the pending landing-page work and `docs/`.
-2. Push to a Git host, import into Vercel, set `NEXT_PUBLIC_SUPABASE_URL` +
-   `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY`.
-3. Supabase → Auth → URL Configuration: set prod Site URL, add `https://<app>.vercel.app/**`
-   to redirect URLs.
+1. ~~Commit the pending landing-page work and `docs/`.~~ ✅ 2026-07-06
+2. ~~Push, deploy to Vercel with env vars.~~ ✅ 2026-07-06 — live at
+   **https://dnd-app-dun.vercel.app** (project `dnd-app`, GitHub integration deploys `main`
+   to production automatically; both env vars set for Preview + Production).
+3. Supabase → Auth → URL Configuration: set Site URL to `https://dnd-app-dun.vercel.app`,
+   add `https://dnd-app-dun.vercel.app/**` to redirect URLs. (Dashboard-only — no API for this.)
 4. **Custom SMTP before inviting anyone.** Supabase's built-in mailer is rate-limited to a
    handful of emails/hour — magic-link auth for a 5-person table will hit it immediately.
    Wire up Resend (or similar) in Supabase → Auth → SMTP.
