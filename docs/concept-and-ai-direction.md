@@ -9,12 +9,13 @@ order. The end-goal below is Niklas's stated direction, not speculation.
 - v1 code-complete, **deployed and live at https://dnd-app-dun.vercel.app** (Vercel project
   `dnd-app`, scope `niklas-ellies-projects`; GitHub integration auto-deploys `main` to
   production — pushing = deploying). Env vars set for Preview + Production.
-- **Still manual, blocking real logins on prod** (Supabase dashboard only, no API):
-  1. Auth → URL Configuration: Site URL `https://dnd-app-dun.vercel.app`, add
-     `https://dnd-app-dun.vercel.app/**` to redirect URLs.
-  2. Auth → SMTP: wire a custom sender (e.g. Resend) — built-in mailer is rate-limited to a
-     few emails/hour; one table's magic-link logins will exhaust it.
-  3. Then test a real magic-link login on prod. After that: the dark-launch playtest
+- Auth → URL Configuration (Site URL + redirect for `dnd-app-dun.vercel.app`): ✅ done
+  2026-07-06.
+- **Still manual, blocking a real table on prod** (Supabase dashboard only, no API):
+  1. Auth → SMTP: wire a custom sender (e.g. Resend) — built-in mailer is rate-limited to a
+     few emails/hour; one table's magic-link logins will exhaust it. (A solo login test
+     works without this.)
+  2. Test a real magic-link login on prod. After that: the dark-launch playtest
      (`docs/launch-post.md`), before any new features.
 
 ## Concept assessment (2026-07-06)
